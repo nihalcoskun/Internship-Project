@@ -11,6 +11,7 @@ public class Project {
 	
 	public static String findUndefinedMerchant (String filePath) throws Exception {
 		
+		//privacy
 		String dbUrl = "-------------------------";
 		String username = "-------";
 		String password = "--------";
@@ -114,7 +115,7 @@ public class Project {
 								
 				 			 				     	
 				 
-					     // AÇIK BIRAKTIN :):):)(:):):)):((:):)(:): 
+					  
 
 					    if(merchant != null )
 					    { 	
