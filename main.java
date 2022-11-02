@@ -11,9 +11,9 @@ public class Project {
 	
 	public static String findUndefinedMerchant (String filePath) throws Exception {
 		
-		String dbUrl = "jdbc:oracle:thin:@tk103dbt.thy.com:1453/TK103Q";
-		String username = "MBR";
-		String password = "TESTMBR";
+		String dbUrl = "-------------------------";
+		String username = "-------";
+		String password = "--------";
 		
 		Connection connection;
 		Statement statement = null;
